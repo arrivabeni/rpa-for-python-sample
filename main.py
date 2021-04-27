@@ -19,7 +19,7 @@ try:
 
     vac_scheduler.screen_applicant_list()
 
-    vac_scheduler.screen_add_applicant('1982-05-01')
+    vac_scheduler.screen_add_applicant('2020-01-01')
 
     vac_scheduler.wait(15)
 
